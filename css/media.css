@@ -1,0 +1,265 @@
+/* smart phone and tablets */
+
+@media (max-width:767px) 
+{
+    .section .all-layer .layer .in-layer
+    {
+        width: 100%;
+    }
+    .all-layer .layer .in-layer h2 
+    {
+    font-size: 19px !important;
+    }
+    .all-layer .layer .in-layer p
+    {
+    font-size: 16px !important;
+    }
+    .section2
+    {
+        width: 100%;
+    }
+     .section2 h1
+    {
+        font-size: 16px;
+        width: 100% !important;
+    }
+    .section3 
+    {
+        width: 100%;
+    }
+    .section3 .col-5
+    {
+        
+        display: none;
+    }
+    
+    
+     .section3 .row .in-row
+    {
+        width: 170% !important;
+    }
+     .section3 .row .in-row .container
+    {
+        width: 106% !important;
+    }
+     .section3 .row .col-7 .py-5
+    {
+        
+        justify-content: center;
+        width: 120% !important;
+        padding-left: 0px;
+    }
+    .section3 .fa-xs 
+    {
+    width: 100%;
+    }
+    .section4 .row .img-4
+    {
+        display: none;
+    }
+        .section4 .row .all-data
+    {
+        font-size: 16px;
+        width: 200%;
+    }
+        .section4 .row .all-data h1
+    {
+        font-size: 16px;
+        width: 100%;
+    }
+        .section4 .row .all-data p,h6
+    {
+        font-size: 12px;
+        width: 100%;
+    }
+    .section5 h1
+    {
+        width: 100%;
+        font-size: 14px;
+    }
+    .section5 .row .col
+    {
+        width: 100%;
+    }
+    
+    .section6 h1
+    {
+        font-size: 19px !important;
+    }
+    .section7 .pl-5, .px-5
+    {
+        padding-left: 0 !important;
+    }
+    
+
+
+      
+}
+
+/* small screen */
+
+@media (min-width:768px) and (max-width:991px)
+{
+    .section .all-layer .layer .in-layer
+    {
+        width: 100%;
+    }
+    .all-layer .layer .in-layer h2 
+    {
+    font-size: 19px !important;
+    }
+    .all-layer .layer .in-layer p
+    {
+    font-size: 16px !important;
+    }
+
+    .section2
+    {
+        width: 100%;
+    }
+     .section2 h1
+    {
+        font-size: 16px;
+        width: 100% !important;
+    }
+    .section3 
+    {
+        width: 100%;
+    }
+    .section3 .col-5
+    {
+        
+        display: none;
+    }
+    
+    
+     .section3 .row .in-row
+    {
+        width: 180% !important;
+    }
+     .section3 .row .in-row .container
+    {
+        width: 106% !important;
+    }
+     .section3 .row .col-7 .py-5
+    {
+        
+        justify-content: center;
+        width: 120% !important;
+        padding-left: 0px;
+    }
+    .section3 .fa-xs 
+    {
+    width: 100%;
+    }
+    .section4 .row .img-4
+    {
+        display: none;
+    }
+        .section4 .row .all-data
+    {
+        font-size: 16px;
+        width: 200%;
+    }
+        .section4 .row .all-data h1
+    {
+        font-size: 16px;
+        width: 100%;
+    }
+        .section4 .row .all-data p,h6
+    {
+        font-size: 12px;
+        width: 100%;
+    }
+    .section5 h1
+    {
+        width: 100%;
+        font-size: 14px;
+    }
+    .section5 .row .col
+    {
+        width: 100%;
+    }
+
+}
+
+/* medium screen */
+
+@media (min-width:992px) and (max-width:1199px) 
+{
+    .section2
+    {
+        width: 100%;
+    }
+     .section2 h1
+    {
+        font-size: 16px;
+        width: 100% !important;
+    }
+    .section3 
+    {
+        width: 100%;
+    }
+    .section3 .col-5
+    {
+        
+        display: none;
+    }
+    
+    
+     .section3 .row .in-row
+    {
+        width: 180% !important;
+    }
+     .section3 .row .in-row .container
+    {
+        width: 106% !important;
+    }
+     .section3 .row .col-7 .py-5
+    {
+        
+        justify-content: center;
+        width: 120% !important;
+        padding-left: 0px;
+    }
+    .section3 .fa-xs 
+    {
+    width: 100%;
+    }
+    .section4 .row .img-4
+    {
+        display: none;
+    }
+        .section4 .row .all-data
+    {
+        font-size: 16px;
+        width: 200%;
+    }
+        .section4 .row .all-data h1
+    {
+        font-size: 16px;
+        width: 100%;
+    }
+        .section4 .row .all-data p,h6
+    {
+        font-size: 12px;
+        width: 100%;
+    }
+    .section5 h1
+    {
+        width: 100%;
+        font-size: 14px;
+    }
+    .section5 .row .col
+    {
+        width: 100%;
+    }
+
+}
+
+/* larg screen */
+
+@media (min-width:1200px)
+{
+    
+}
